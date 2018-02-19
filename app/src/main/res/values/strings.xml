@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geocoding</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="autocomplete_hint">Search a Place</string>
+    <string name="title_activity_google_maps">Map</string>
+</resources>
